@@ -1,4 +1,4 @@
-### ¡Hola! Soy Papalla 👋 
+### ¡Hola! Soy Oscar Adrian Trelles Cutipa 👋 
 *Python Developer & Data / Automation Engineer | Remoto desde Perú para España*
 
 Transformo procesos manuales lentos en **sistemas automatizados robustos, pipelines de datos limpios y arquitecturas conectadas con CRM (HubSpot)**. Mi enfoque combina lógica de negocio, resiliencia operativa y entrega de software de calidad listo para producción.
